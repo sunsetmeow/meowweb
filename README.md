@@ -1,0 +1,38 @@
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔  
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　  ੈ✧̣̇˳·˖✶   ✦
+# Welcome to My Portfolio °❀⋆.ೃ࿔*:･
+Hi, I'm Bianca Jimmy, a web developer and digital artist. Explore my work and feel free to reach out for collaborations or opportunities!
+
+## ˚₊‧꒰ა About Me ໒꒱ ‧₊˚
+I am a passionate and aspiring web developer with completed BTEC Level 3 qualifications in Business Studies and Computer Science. I enjoy creating innovative web applications using HTML, CSS, and JavaScript to solve real-world problems or fun task problems. Currently, I’m pursuing a career in Software Development, aiming to build user-friendly applications that make a positive impact. I express my creativity through digital art and writing in my spare time.
+I look forward to connecting and collaborating on exciting projects!
+
+## ₊˚.⋆☾⋆⁺₊✧ Projects ₊˚.⋆☾⋆⁺₊✧
+Here are some of the projects I’ve worked on:
+
+- **Mock Recipe Website**: A web application that allows users to search and save their favorite recipes. Built with HTML, CSS, and JavaScript. **[View Project](https://learn.codeinstitute.net/courses/coursev1:CodeInstitute+AACC+2021/courseware/7dcccde95af649d0a9dcd8a1aaad1e96/d1cbc2d2b2b54a24b18923471613764a/)**
+
+- **Women in Tech Website**: A project highlighting women in technology, featuring profiles and resources.
+I developed a website aimed at celebrating the contributions of women in the technology field. The site features profiles, resources, and articles designed to     empower and inspire women in tech. Although the website is currently not available for viewing due to restrictions, I utilized HTML, CSS, and JavaScript to create an engaging and informative user experience. This project helped me enhance my web development skills and deepened my understanding of the importance of representation in the tech industry.
+
+- **Digital Art Gallery**: An online showcase of my digital art creations. [View Gallery](https://link-to-gallery.com)
+
+## ⋆౨ৎ˚⟡.• Skills ⋆౨ৎ˚⟡.•
+    Technical Skills:
+        -Programming Languages: HTML, CSS, JavaScript (Khan Academy course in progress).
+        -Web Development: Responsive design, UX/UI principles, SEO.
+        -Networking: Basic computer networking setup and configuration.
+        -Other Skills: Troubleshooting, debugging, and project management.
+
+    Soft Skills:
+        -Communication, Problem-solving, Attention to detail
+        -Adaptability, Time management, Customer service
+
+## ✮⋆｡𖦹°⭒˚｡⋆ Contact ✮⋆｡𖦹°⭒˚｡⋆
+Feel free to reach out to me at biancajimmy75@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+## ⋆⭒˚｡⋆₊ ⊹ Technologies Used ⋆⭒˚｡⋆₊ ⊹
+- HTML
+- CSS
+- JavaScript (currently deepening knowledge)
+- Python
