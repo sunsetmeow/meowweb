@@ -29,7 +29,7 @@ I developed a website aimed at celebrating the contributions of women in the tec
         -Adaptability, Time management, Customer service
 
 ## ✮⋆｡𖦹°⭒˚｡⋆ Contact ✮⋆｡𖦹°⭒˚｡⋆
-Feel free to reach out to me at biancajimmy75@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me at biancajimmy75@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bianca-jimmy-93418a249/).
 
 ## ⋆⭒˚｡⋆₊ ⊹ Technologies Used ⋆⭒˚｡⋆₊ ⊹
 - HTML
