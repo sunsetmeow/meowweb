@@ -11,7 +11,9 @@ I look forward to connecting and collaborating on exciting projects!
 Here are some of the projects I’ve worked on:
 
 - **Mock Recipe Website:** A web application that allows users to search and save their favorite recipes. Built with HTML, CSS, and JavaScript. **[View Project]
-![Code and Result of Recipe Mock Website](path/to/your/image.jpg)**
+<img src="images/image1.jpg" alt="Part 1 of HTML code">
+<img src="images/image2.jpg" alt="Part 2 of HTML code">**
+
 
 
 - **Women in Tech Website:** A project highlighting women in technology, featuring profiles and resources.
