@@ -4,7 +4,7 @@
 Hi, I'm Bianca Jimmy, a web developer and digital artist. Explore my work and feel free to reach out for collaborations or opportunities!
 
 ## ˚₊‧꒰ა About Me ໒꒱ ‧₊˚
-I am a passionate and aspiring web developer with completed BTEC Level 3 qualifications in Business Studies and Computer Science. I enjoy creating innovative web applications using HTML, CSS, and JavaScript to solve real-world problems or fun task problems. Currently, I’m pursuing a career in Software Development, aiming to build user-friendly applications that make a positive impact. I express my creativity through digital art and writing in my spare time.
+I am a passionate and aspiring web developer with completed BTEC Level 3 qualifications in Business Studies and Computer Science. I enjoy creating innovative web applications using HTML, CSS, and JavaScript to solve real-world or fun task problems. Currently, I’m pursuing a career in Software Development, aiming to build user-friendly applications that make a positive impact. I express my creativity through digital art and writing in my spare time.
 I look forward to connecting and collaborating on exciting projects!
 
 ## ₊˚.⋆☾⋆⁺₊✧ Projects ₊˚.⋆☾⋆⁺₊✧
