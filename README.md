@@ -10,7 +10,9 @@ I look forward to connecting and collaborating on exciting projects!
 ## ₊˚.⋆☾⋆⁺₊✧ Projects ₊˚.⋆☾⋆⁺₊✧
 Here are some of the projects I’ve worked on:
 
-- **Mock Recipe Website:** A web application that allows users to search and save their favorite recipes. Built with HTML, CSS, and JavaScript. **[View Project](https://learn.codeinstitute.net/courses/coursev1:CodeInstitute+AACC+2021/courseware/7dcccde95af649d0a9dcd8a1aaad1e96/d1cbc2d2b2b54a24b18923471613764a/)**
+- **Mock Recipe Website:** A web application that allows users to search and save their favorite recipes. Built with HTML, CSS, and JavaScript. **[View Project]
+<img src="path/to/your/image.jpg" alt="coding (CSS and HTML) and the result">**
+
 
 - **Women in Tech Website:** A project highlighting women in technology, featuring profiles and resources.
 I developed a website aimed at celebrating the contributions of women in the technology field. The site features profiles, resources, and articles designed to     empower and inspire women in tech. Although the website is currently not available for viewing due to restrictions, I utilized HTML, CSS, and JavaScript to create an engaging and informative user experience. This project helped me enhance my web development skills and deepened my understanding of the importance of representation in the tech industry.
