@@ -30,10 +30,10 @@ Here are some of the projects I’ve worked on:
 I developed a website to celebrate women's contributions in the technology field. The site features profiles, resources, and articles designed to empower and inspire women in tech. Although the website is currently unavailable for viewing due to restrictions, I utilized HTML, CSS, and JavaScript to create an engaging and informative user experience. This project helped me enhance my web development skills and deepened my understanding of the importance of representation in the tech industry.
 
 - **JavaScript Project (Khan Academy):**
-Currently working on an online course titled "Computer Programming - JavaScript and the Web" as part of my learning journey with Khan Academy. This project allows me to apply and deepen my understanding of JavaScript concepts, enhancing my programming skills. **[View Project](https://www.khanacademy.org/profile/kaid_123366395341261238575054/projects)**
+Currently working on an online course titled "Computer Programming - JavaScript and the Web" as part of my learning journey with Khan Academy. This project allows me to apply and deepen my understanding of JavaScript concepts, enhancing my programming skills. **[View My JavaScript Projects](https://www.khanacademy.org/profile/kaid_123366395341261238575054/projects)**
 
 - **Digital Art Gallery:**
-Here are the digital drawings that I do in my free time using Procreate and Krita. [View Gallery](https://link-to-gallery.com)
+During my free time, I like to draw art traditionally and digitally. Here are my digital drawings using Procreate and Krita. [View Gallery](https://link-to-gallery.com)
 
 ## ⋆౨ৎ˚⟡.• Skills ⋆౨ৎ˚⟡.•
     Technical Skills:
