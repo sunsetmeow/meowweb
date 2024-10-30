@@ -52,8 +52,10 @@ During my free time, I like to draw art traditionally and digitally. Here are my
 **[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/killua%20doodle.png?raw=true)**
 
 
-**[View Art](https://link-to-gallery.com)**
+**[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/31-03-24.png?raw=true)**
 
+
+**[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/16-04-24.png?raw=true)**
 
 ## ⋆౨ৎ˚⟡.• Skills ⋆౨ৎ˚⟡.•
     Technical Skills:
