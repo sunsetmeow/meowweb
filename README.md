@@ -21,7 +21,7 @@ Here are some of the projects I’ve worked on:
 **[View HTML Code Part 3](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/3.png?raw=true)**
 
 
-**[Result of Mochi Recipe](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/website%20part%201.png?raw=true)**
+**[Result of Mochi Recipe Part 1](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/website%20part%201.png?raw=true)**
 
 
 **[Result of Mochi Recipe Part 2](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/website%20part%202.png?raw=true)**
