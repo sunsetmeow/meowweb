@@ -30,16 +30,28 @@ Here are some of the projects I’ve worked on:
 I developed a website to celebrate women's contributions in the technology field. The site features profiles, resources, and articles designed to empower and inspire women in tech. Although the website is currently unavailable for viewing due to restrictions, I utilized HTML, CSS, and JavaScript to create an engaging and informative user experience. This project helped me enhance my web development skills and deepened my understanding of the importance of representation in the tech industry.
 
 - **JavaScript Project (Khan Academy):**
-Currently working on an online course titled "Computer Programming - JavaScript and the Web" as part of my learning journey with Khan Academy. This project allows me to apply and deepen my understanding of JavaScript concepts, enhancing my programming skills. **[View My JavaScript Projects](https://www.khanacademy.org/profile/kaid_123366395341261238575054/projects)**
+Currently working on an online course titled "Computer Programming - JavaScript and the Web" as part of my learning journey with Khan Academy. This project allows me to apply and deepen my understanding of JavaScript concepts, enhancing my programming skills.
+
+**[View My JavaScript Projects](https://www.khanacademy.org/profile/kaid_123366395341261238575054/projects)**
 
 - **Digital Art Gallery:**
 During my free time, I like to draw art traditionally and digitally. Here are my digital drawings using Procreate and Krita.
 
 **[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/14-04-23.jpg?raw=true)**
+
+
 **[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/17-07-24%20princess%20cadance.png?raw=true)**
+
+
 **[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/19-06-24%20Twilight%20Sparkle.png?raw=true)**
+
+
 **[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/22-05-24%20Fluttershy.jpg?raw=true)**
-**[View Art](![image](https://github.com/user-attachments/assets/aa2ad4df-5ea2-4307-b982-fb941b965ab2))**
+
+
+**[View Art](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/killua%20doodle.png?raw=true)**
+
+
 **[View Art](https://link-to-gallery.com)**
 
 
