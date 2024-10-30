@@ -11,14 +11,20 @@ I look forward to connecting and collaborating on exciting projects!
 Here are some of the projects I’ve worked on:
 
 - **Recipe Website:** Built with HTML, CSS, and JavaScript. This is just a mock website that I created as part of a task to create a recipe website. For my recipe, I decided to create a Mochi website. For context, a Mochi is a Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch.
+
 **[View HTML Code Part 1](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/1.png?raw=true)**
+
+  
 **[View HTML Code Part 2](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/2.png?raw=true)**
+
+
 **[View HTML Code Part 3](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/3.png?raw=true)**
+
+
 **[Result of Mochi Recipe](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/website%20part%201.png?raw=true)**
+
+
 **[Result of Mochi Recipe Part 2](https://github.com/sunsetmeow/meowweb/blob/Portfolio/images/website%20part%202.png?raw=true)**
-
-
-
 
 - **Women in Tech Website:** A project highlighting women in technology, featuring profiles and resources.
 I developed a website to celebrate women's contributions in the technology field. The site features profiles, resources, and articles designed to empower and inspire women in tech. Although the website is currently unavailable for viewing due to restrictions, I utilized HTML, CSS, and JavaScript to create an engaging and informative user experience. This project helped me enhance my web development skills and deepened my understanding of the importance of representation in the tech industry.
