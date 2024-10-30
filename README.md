@@ -10,9 +10,8 @@ I look forward to connecting and collaborating on exciting projects!
 ## ₊˚.⋆☾⋆⁺₊✧ Projects ₊˚.⋆☾⋆⁺₊✧
 Here are some of the projects I’ve worked on:
 
-- **Mock Recipe Website:** A web application that allows users to search and save their favorite recipes. Built with HTML, CSS, and JavaScript. **[View Project]
-<img src="images/image1.jpg" alt="Part 1 of HTML code">
-<img src="images/image2.jpg" alt="Part 2 of HTML code">**
+- **Recipe Website:** Built with HTML, CSS, and JavaScript. This is just a mock website that I created as part of a task to create a recipe website. For my recipe, I decided to create a Mochi website. For context, a Mochi is a Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch.
+**[View Project]
 
 
 
